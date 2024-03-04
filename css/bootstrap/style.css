@@ -1,0 +1,16 @@
+#slider-container{
+    padding-left: 7px;
+    padding-right: 5px;
+    width: 100px;
+    height: 200px;
+}
+ #date{
+    width: 100px;
+    height: 200px;
+ }
+
+ /*background for the body*/
+
+ body{
+    background: rgb(172, 214, 172);
+ }
